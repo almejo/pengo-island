@@ -9,6 +9,10 @@ Creamos este juego (con otros cuatro amigos) como tributo a otro gran juego de n
 
 Este juego no pretende ser un video juego profesional. En cambio nos sirvió para aprender los fundamentos de programación estructurada en Pascal y los conceptos básicos de programación de juegos.
 
+## Licencia
+
+El juego está bajo al licencia GPL Versión 3. Una copia de esta se incluye en el archivo license.txt.
+
 ## Idea del juego
 
 En este juego tu manejas a Pengo, el simpático pingüino protagonista del juego de igual nombre. Pengo debe rescatar a su amigo Rockford (el protagonista de [BoulderDash](http://en.wikipedia.org/wiki/Boulder_Dash)) que fue raptado por DOH, el jefe final de [Arkanoid](http://en.wikipedia.org/wiki/Arkanoid).
