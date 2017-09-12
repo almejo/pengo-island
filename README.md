@@ -56,6 +56,7 @@ La idea original del juego incluía más enemigos y obstaculos de los que se apr
 ## Contacto
 
 - Alejandro Vera: [twitter](https://twitter.com/almejo) [github](https://github.com/almejo)
+- Nicolas Loira: [twitter](https://twitter.com/okote) [github](https://github.com/nloira)
 - Denis Fuenzalida: [twitter](https://twitter.com/dfuenzal) [github](https://github.com/dfuenzalida)
 
 ## Agradecimientos
